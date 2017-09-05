@@ -1,0 +1,444 @@
+Year:  1900 Leap year?: false
+Year:  1901 Leap year?: false
+Answer: 1
+609   0   sun - sept - 1 - 1901
+Answer: 2
+700   0   sun - dec - 1 - 1901
+Year:  1902 Leap year?: false
+Answer: 3
+882   0   sun - june - 1 - 1902
+Year:  1903 Leap year?: false
+Answer: 4
+1127   0   sun - feb - 1 - 1903
+Answer: 5
+1155   0   sun - march - 1 - 1903
+Answer: 6
+1400   0   sun - nov - 1 - 1903
+Year:  1904 Leap year?: true
+Answer: 7
+1582   0   sun - may - 1 - 1904
+Year:  1905 Leap year?: false
+Answer: 8
+1827   0   sun - jan - 1 - 1905
+Answer: 9
+2100   0   sun - oct - 1 - 1905
+Year:  1906 Leap year?: false
+Answer: 10
+2282   0   sun - april - 1 - 1906
+Answer: 11
+2373   0   sun - july - 1 - 1906
+Year:  1907 Leap year?: false
+Answer: 12
+2800   0   sun - sept - 1 - 1907
+Answer: 13
+2891   0   sun - dec - 1 - 1907
+Year:  1908 Leap year?: true
+Answer: 14
+2982   0   sun - march - 1 - 1908
+Answer: 15
+3227   0   sun - nov - 1 - 1908
+Year:  1909 Leap year?: false
+Answer: 16
+3500   0   sun - aug - 1 - 1909
+Year:  1910 Leap year?: false
+Answer: 17
+3773   0   sun - may - 1 - 1910
+Year:  1911 Leap year?: false
+Answer: 18
+4018   0   sun - jan - 1 - 1911
+Answer: 19
+4291   0   sun - oct - 1 - 1911
+Year:  1912 Leap year?: true
+Answer: 20
+4627   0   sun - sept - 1 - 1912
+Answer: 21
+4718   0   sun - dec - 1 - 1912
+Year:  1913 Leap year?: false
+Answer: 22
+4900   0   sun - june - 1 - 1913
+Year:  1914 Leap year?: false
+Answer: 23
+5145   0   sun - feb - 1 - 1914
+Answer: 24
+5173   0   sun - march - 1 - 1914
+Answer: 25
+5418   0   sun - nov - 1 - 1914
+Year:  1915 Leap year?: false
+Answer: 26
+5691   0   sun - aug - 1 - 1915
+Year:  1916 Leap year?: true
+Answer: 27
+6118   0   sun - oct - 1 - 1916
+Year:  1917 Leap year?: false
+Answer: 28
+6300   0   sun - april - 1 - 1917
+Answer: 29
+6391   0   sun - july - 1 - 1917
+Year:  1918 Leap year?: false
+Answer: 30
+6818   0   sun - sept - 1 - 1918
+Answer: 31
+6909   0   sun - dec - 1 - 1918
+Year:  1919 Leap year?: false
+Answer: 32
+7091   0   sun - june - 1 - 1919
+Year:  1920 Leap year?: true
+Answer: 33
+7336   0   sun - feb - 1 - 1920
+Answer: 34
+7518   0   sun - aug - 1 - 1920
+Year:  1921 Leap year?: false
+Answer: 35
+7791   0   sun - may - 1 - 1921
+Year:  1922 Leap year?: false
+Answer: 36
+8036   0   sun - jan - 1 - 1922
+Answer: 37
+8309   0   sun - oct - 1 - 1922
+Year:  1923 Leap year?: false
+Answer: 38
+8491   0   sun - april - 1 - 1923
+Answer: 39
+8582   0   sun - july - 1 - 1923
+Year:  1924 Leap year?: true
+Answer: 40
+8918   0   sun - june - 1 - 1924
+Year:  1925 Leap year?: false
+Answer: 41
+9163   0   sun - feb - 1 - 1925
+Answer: 42
+9191   0   sun - march - 1 - 1925
+Answer: 43
+9436   0   sun - nov - 1 - 1925
+Year:  1926 Leap year?: false
+Answer: 44
+9709   0   sun - aug - 1 - 1926
+Year:  1927 Leap year?: false
+Answer: 45
+9982   0   sun - may - 1 - 1927
+Year:  1928 Leap year?: true
+Answer: 46
+10227   0   sun - jan - 1 - 1928
+Answer: 47
+10318   0   sun - april - 1 - 1928
+Answer: 48
+10409   0   sun - july - 1 - 1928
+Year:  1929 Leap year?: false
+Answer: 49
+10836   0   sun - sept - 1 - 1929
+Answer: 50
+10927   0   sun - dec - 1 - 1929
+Year:  1930 Leap year?: false
+Answer: 51
+11109   0   sun - june - 1 - 1930
+Year:  1931 Leap year?: false
+Answer: 52
+11354   0   sun - feb - 1 - 1931
+Answer: 53
+11382   0   sun - march - 1 - 1931
+Answer: 54
+11627   0   sun - nov - 1 - 1931
+Year:  1932 Leap year?: true
+Answer: 55
+11809   0   sun - may - 1 - 1932
+Year:  1933 Leap year?: false
+Answer: 56
+12054   0   sun - jan - 1 - 1933
+Answer: 57
+12327   0   sun - oct - 1 - 1933
+Year:  1934 Leap year?: false
+Answer: 58
+12509   0   sun - april - 1 - 1934
+Answer: 59
+12600   0   sun - july - 1 - 1934
+Year:  1935 Leap year?: false
+Answer: 60
+13027   0   sun - sept - 1 - 1935
+Answer: 61
+13118   0   sun - dec - 1 - 1935
+Year:  1936 Leap year?: true
+Answer: 62
+13209   0   sun - march - 1 - 1936
+Answer: 63
+13454   0   sun - nov - 1 - 1936
+Year:  1937 Leap year?: false
+Answer: 64
+13727   0   sun - aug - 1 - 1937
+Year:  1938 Leap year?: false
+Answer: 65
+14000   0   sun - may - 1 - 1938
+Year:  1939 Leap year?: false
+Answer: 66
+14245   0   sun - jan - 1 - 1939
+Answer: 67
+14518   0   sun - oct - 1 - 1939
+Year:  1940 Leap year?: true
+Answer: 68
+14854   0   sun - sept - 1 - 1940
+Answer: 69
+14945   0   sun - dec - 1 - 1940
+Year:  1941 Leap year?: false
+Answer: 70
+15127   0   sun - june - 1 - 1941
+Year:  1942 Leap year?: false
+Answer: 71
+15372   0   sun - feb - 1 - 1942
+Answer: 72
+15400   0   sun - march - 1 - 1942
+Answer: 73
+15645   0   sun - nov - 1 - 1942
+Year:  1943 Leap year?: false
+Answer: 74
+15918   0   sun - aug - 1 - 1943
+Year:  1944 Leap year?: true
+Answer: 75
+16345   0   sun - oct - 1 - 1944
+Year:  1945 Leap year?: false
+Answer: 76
+16527   0   sun - april - 1 - 1945
+Answer: 77
+16618   0   sun - july - 1 - 1945
+Year:  1946 Leap year?: false
+Answer: 78
+17045   0   sun - sept - 1 - 1946
+Answer: 79
+17136   0   sun - dec - 1 - 1946
+Year:  1947 Leap year?: false
+Answer: 80
+17318   0   sun - june - 1 - 1947
+Year:  1948 Leap year?: true
+Answer: 81
+17563   0   sun - feb - 1 - 1948
+Answer: 82
+17745   0   sun - aug - 1 - 1948
+Year:  1949 Leap year?: false
+Answer: 83
+18018   0   sun - may - 1 - 1949
+Year:  1950 Leap year?: false
+Answer: 84
+18263   0   sun - jan - 1 - 1950
+Answer: 85
+18536   0   sun - oct - 1 - 1950
+Year:  1951 Leap year?: false
+Answer: 86
+18718   0   sun - april - 1 - 1951
+Answer: 87
+18809   0   sun - july - 1 - 1951
+Year:  1952 Leap year?: true
+Answer: 88
+19145   0   sun - june - 1 - 1952
+Year:  1953 Leap year?: false
+Answer: 89
+19390   0   sun - feb - 1 - 1953
+Answer: 90
+19418   0   sun - march - 1 - 1953
+Answer: 91
+19663   0   sun - nov - 1 - 1953
+Year:  1954 Leap year?: false
+Answer: 92
+19936   0   sun - aug - 1 - 1954
+Year:  1955 Leap year?: false
+Answer: 93
+20209   0   sun - may - 1 - 1955
+Year:  1956 Leap year?: true
+Answer: 94
+20454   0   sun - jan - 1 - 1956
+Answer: 95
+20545   0   sun - april - 1 - 1956
+Answer: 96
+20636   0   sun - july - 1 - 1956
+Year:  1957 Leap year?: false
+Answer: 97
+21063   0   sun - sept - 1 - 1957
+Answer: 98
+21154   0   sun - dec - 1 - 1957
+Year:  1958 Leap year?: false
+Answer: 99
+21336   0   sun - june - 1 - 1958
+Year:  1959 Leap year?: false
+Answer: 100
+21581   0   sun - feb - 1 - 1959
+Answer: 101
+21609   0   sun - march - 1 - 1959
+Answer: 102
+21854   0   sun - nov - 1 - 1959
+Year:  1960 Leap year?: true
+Answer: 103
+22036   0   sun - may - 1 - 1960
+Year:  1961 Leap year?: false
+Answer: 104
+22281   0   sun - jan - 1 - 1961
+Answer: 105
+22554   0   sun - oct - 1 - 1961
+Year:  1962 Leap year?: false
+Answer: 106
+22736   0   sun - april - 1 - 1962
+Answer: 107
+22827   0   sun - july - 1 - 1962
+Year:  1963 Leap year?: false
+Answer: 108
+23254   0   sun - sept - 1 - 1963
+Answer: 109
+23345   0   sun - dec - 1 - 1963
+Year:  1964 Leap year?: true
+Answer: 110
+23436   0   sun - march - 1 - 1964
+Answer: 111
+23681   0   sun - nov - 1 - 1964
+Year:  1965 Leap year?: false
+Answer: 112
+23954   0   sun - aug - 1 - 1965
+Year:  1966 Leap year?: false
+Answer: 113
+24227   0   sun - may - 1 - 1966
+Year:  1967 Leap year?: false
+Answer: 114
+24472   0   sun - jan - 1 - 1967
+Answer: 115
+24745   0   sun - oct - 1 - 1967
+Year:  1968 Leap year?: true
+Answer: 116
+25081   0   sun - sept - 1 - 1968
+Answer: 117
+25172   0   sun - dec - 1 - 1968
+Year:  1969 Leap year?: false
+Answer: 118
+25354   0   sun - june - 1 - 1969
+Year:  1970 Leap year?: false
+Answer: 119
+25599   0   sun - feb - 1 - 1970
+Answer: 120
+25627   0   sun - march - 1 - 1970
+Answer: 121
+25872   0   sun - nov - 1 - 1970
+Year:  1971 Leap year?: false
+Answer: 122
+26145   0   sun - aug - 1 - 1971
+Year:  1972 Leap year?: true
+Answer: 123
+26572   0   sun - oct - 1 - 1972
+Year:  1973 Leap year?: false
+Answer: 124
+26754   0   sun - april - 1 - 1973
+Answer: 125
+26845   0   sun - july - 1 - 1973
+Year:  1974 Leap year?: false
+Answer: 126
+27272   0   sun - sept - 1 - 1974
+Answer: 127
+27363   0   sun - dec - 1 - 1974
+Year:  1975 Leap year?: false
+Answer: 128
+27545   0   sun - june - 1 - 1975
+Year:  1976 Leap year?: true
+Answer: 129
+27790   0   sun - feb - 1 - 1976
+Answer: 130
+27972   0   sun - aug - 1 - 1976
+Year:  1977 Leap year?: false
+Answer: 131
+28245   0   sun - may - 1 - 1977
+Year:  1978 Leap year?: false
+Answer: 132
+28490   0   sun - jan - 1 - 1978
+Answer: 133
+28763   0   sun - oct - 1 - 1978
+Year:  1979 Leap year?: false
+Answer: 134
+28945   0   sun - april - 1 - 1979
+Answer: 135
+29036   0   sun - july - 1 - 1979
+Year:  1980 Leap year?: true
+Answer: 136
+29372   0   sun - june - 1 - 1980
+Year:  1981 Leap year?: false
+Answer: 137
+29617   0   sun - feb - 1 - 1981
+Answer: 138
+29645   0   sun - march - 1 - 1981
+Answer: 139
+29890   0   sun - nov - 1 - 1981
+Year:  1982 Leap year?: false
+Answer: 140
+30163   0   sun - aug - 1 - 1982
+Year:  1983 Leap year?: false
+Answer: 141
+30436   0   sun - may - 1 - 1983
+Year:  1984 Leap year?: true
+Answer: 142
+30681   0   sun - jan - 1 - 1984
+Answer: 143
+30772   0   sun - april - 1 - 1984
+Answer: 144
+30863   0   sun - july - 1 - 1984
+Year:  1985 Leap year?: false
+Answer: 145
+31290   0   sun - sept - 1 - 1985
+Answer: 146
+31381   0   sun - dec - 1 - 1985
+Year:  1986 Leap year?: false
+Answer: 147
+31563   0   sun - june - 1 - 1986
+Year:  1987 Leap year?: false
+Answer: 148
+31808   0   sun - feb - 1 - 1987
+Answer: 149
+31836   0   sun - march - 1 - 1987
+Answer: 150
+32081   0   sun - nov - 1 - 1987
+Year:  1988 Leap year?: true
+Answer: 151
+32263   0   sun - may - 1 - 1988
+Year:  1989 Leap year?: false
+Answer: 152
+32508   0   sun - jan - 1 - 1989
+Answer: 153
+32781   0   sun - oct - 1 - 1989
+Year:  1990 Leap year?: false
+Answer: 154
+32963   0   sun - april - 1 - 1990
+Answer: 155
+33054   0   sun - july - 1 - 1990
+Year:  1991 Leap year?: false
+Answer: 156
+33481   0   sun - sept - 1 - 1991
+Answer: 157
+33572   0   sun - dec - 1 - 1991
+Year:  1992 Leap year?: true
+Answer: 158
+33663   0   sun - march - 1 - 1992
+Answer: 159
+33908   0   sun - nov - 1 - 1992
+Year:  1993 Leap year?: false
+Answer: 160
+34181   0   sun - aug - 1 - 1993
+Year:  1994 Leap year?: false
+Answer: 161
+34454   0   sun - may - 1 - 1994
+Year:  1995 Leap year?: false
+Answer: 162
+34699   0   sun - jan - 1 - 1995
+Answer: 163
+34972   0   sun - oct - 1 - 1995
+Year:  1996 Leap year?: true
+Answer: 164
+35308   0   sun - sept - 1 - 1996
+Answer: 165
+35399   0   sun - dec - 1 - 1996
+Year:  1997 Leap year?: false
+Answer: 166
+35581   0   sun - june - 1 - 1997
+Year:  1998 Leap year?: false
+Answer: 167
+35826   0   sun - feb - 1 - 1998
+Answer: 168
+35854   0   sun - march - 1 - 1998
+Answer: 169
+36099   0   sun - nov - 1 - 1998
+Year:  1999 Leap year?: false
+Answer: 170
+36372   0   sun - aug - 1 - 1999
+Year:  2000 Leap year?: true
+Answer: 171
+36799   0   sun - oct - 1 - 2000
+Final Answer: 171
